@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"../string"
+	"golang-ex/stringutil"
 )
 
 func main() {
