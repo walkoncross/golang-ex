@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"golang-ex/stringutil"
+	"golang-practice-zyf/stringutil"
 )
 
 func main() {

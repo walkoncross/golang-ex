@@ -6,13 +6,13 @@
 3. run or install:
     1. only run: 
     ```cmd
-    go run golang-ex/hello
+    go run golang-practice-zyf/hello
     ```
 
     2. install and run: 
     ```cmd
-    go install golang-ex/stringutil
-    go install golang-ex/hello
+    go install golang-practice-zyf/stringutil
+    go install golang-practice-zyf/hello
     ../bin/hello
     ```
 
